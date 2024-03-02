@@ -104,7 +104,7 @@ for(let i=0; i<arrz.length; i++){
 
 ///     I N C L U D E S    method 
 
-const colors = ['blue', 'orange', 'green','red', 'yellow']
+const colors = ['blue', 'orange', 'green','red', 'yellow', 'white']
 
 let orangeExists = false
 
